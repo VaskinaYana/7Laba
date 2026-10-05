@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfToy>
+  <Toy name="Мяч">
+    <price>300</price>
+    <minAge>2</minAge>
+    <maxAge>6</maxAge>
+  </Toy>
+  <Toy name="Кубики">
+    <price>450</price>
+    <minAge>1</minAge>
+    <maxAge>4</maxAge>
+  </Toy>
+  <Toy name="Пазл">
+    <price>200</price>
+    <minAge>3</minAge>
+    <maxAge>7</maxAge>
+  </Toy>
+  <Toy name="Машинка">
+    <price>600</price>
+    <minAge>2</minAge>
+    <maxAge>4</maxAge>
+  </Toy>
+  <Toy name="Лото">
+    <price>150</price>
+    <minAge>4</minAge>
+    <maxAge>10</maxAge>
+  </Toy>
+  <Toy name="Пирамидка">
+    <price>350</price>
+    <minAge>1</minAge>
+    <maxAge>3</maxAge>
+  </Toy>
+</ArrayOfToy>

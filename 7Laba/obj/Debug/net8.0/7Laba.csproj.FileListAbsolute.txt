@@ -1,0 +1,14 @@
+C:\Users\MSI\Desktop\Яна\ЯП\7Laba\bin\Debug\net8.0\7Laba.exe
+C:\Users\MSI\Desktop\Яна\ЯП\7Laba\bin\Debug\net8.0\7Laba.deps.json
+C:\Users\MSI\Desktop\Яна\ЯП\7Laba\bin\Debug\net8.0\7Laba.runtimeconfig.json
+C:\Users\MSI\Desktop\Яна\ЯП\7Laba\bin\Debug\net8.0\7Laba.dll
+C:\Users\MSI\Desktop\Яна\ЯП\7Laba\bin\Debug\net8.0\7Laba.pdb
+C:\Users\MSI\Desktop\Яна\ЯП\7Laba\obj\Debug\net8.0\7Laba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\Яна\ЯП\7Laba\obj\Debug\net8.0\7Laba.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\Яна\ЯП\7Laba\obj\Debug\net8.0\7Laba.AssemblyInfo.cs
+C:\Users\MSI\Desktop\Яна\ЯП\7Laba\obj\Debug\net8.0\7Laba.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Яна\ЯП\7Laba\obj\Debug\net8.0\7Laba.dll
+C:\Users\MSI\Desktop\Яна\ЯП\7Laba\obj\Debug\net8.0\refint\7Laba.dll
+C:\Users\MSI\Desktop\Яна\ЯП\7Laba\obj\Debug\net8.0\7Laba.pdb
+C:\Users\MSI\Desktop\Яна\ЯП\7Laba\obj\Debug\net8.0\7Laba.genruntimeconfig.cache
+C:\Users\MSI\Desktop\Яна\ЯП\7Laba\obj\Debug\net8.0\ref\7Laba.dll
